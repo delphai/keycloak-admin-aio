@@ -4,3 +4,11 @@ __pycache__
 .pytest_cache
 _build
 dist
+
+/poetry.toml
+
+.idea/
+
+.vscode/
+
+.DS_Store
